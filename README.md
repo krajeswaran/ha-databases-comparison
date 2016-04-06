@@ -92,10 +92,10 @@ Results
 =======
 Raw readings are in `readings.csv`. Units are ns/op unless mentioned. 
 
-<img align="center" src="https://raw.githubusercontent.com/krajeswaran/ha-database-comparison/10k-result.png" />
-<img align="center" src="https://raw.githubusercontent.com/krajeswaran/ha-database-comparison/(s-result.png" />
-<img align="center" src="https://raw.githubusercontent.com/krajeswaran/ha-database-comparison/(http-result.png" />
-<img align="center" src="https://raw.githubusercontent.com/krajeswaran/ha-database-comparison/(s-result.png" />
+<img align="center" src="https://raw.githubusercontent.com/krajeswaran/ha-databases-comparison/master/10k-result.png" />
+<img align="center" src="https://raw.githubusercontent.com/krajeswaran/ha-databases-comparison/master/s-result.png" />
+<img align="center" src="https://raw.githubusercontent.com/krajeswaran/ha-databases-comparison/master/http-result.png" />
+<img align="center" src="https://raw.githubusercontent.com/krajeswaran/ha-databases-comparison/master/s-result.png" />
 
 
 Other things to consider
