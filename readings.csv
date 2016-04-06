@@ -1,0 +1,9 @@
+Test,Couchbase,Cassandra
+10K concurrent reads,118405,180123
+10K concurrent writes,25482721,190060
+5K reads + 400 writes simultaneously: READ,71612,186253
+5K reads + 400 writes simultaneously: WRITE,28175602,205508
+10K hits average over HTTP: READ,8430.5,10805
+10K hits average over HTTP: WRITE,34719,39132.3
+10K concurrent reads CPU usage in seconds,0.93,0.5
+10K concurrent writes CPU,1.64,0.45
